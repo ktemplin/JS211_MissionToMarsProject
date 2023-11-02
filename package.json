@@ -4,7 +4,7 @@
   "description": "Practicing classes and functions",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AustinCodingAcademy/JS211_MissionToMarsProject.git"
+    "url": "git+https://github.com/ktemplin/JS211_MissionToMarsProject.git"
   },
   "scripts": {
     "lint": "htmllint {*.html,./**/*.html} && stylelint ./**/*.css && eslint .",
@@ -13,11 +13,11 @@
     "javascripting": "javascripting",
     "functional-javascript": "functional-javascript"
   },
-  "author": "Clayton Berger",
+  "author": "Kris Templin",
   "bugs": {
-    "url": "https://github.com/AustinCodingAcademy/JS211_MissionToMarsProject/issues"
+    "url": "https://github.com/ktemplin/JS211_MissionToMarsProject/issues"
   },
-  "homepage": "https://github.com/AustinCodingAcademy/JS211_MissionToMarsProject#readme",
+  "homepage": "https://github.com/ktemplin/JS211_MissionToMarsProject#readme",
   "dependencies": {
     "eslint": "^3.19.0",
     "functional-javascript-workshop": "^1.0.6",

@@ -9,8 +9,13 @@ const jobTypes = {
   programmer: 'Any Ship!'
 };
 
-// Your code will go here
+class CrewMember {
 
+}
+
+class Ship {
+
+}
 
 
 
